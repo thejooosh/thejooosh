@@ -16,4 +16,5 @@ My hope is to use this platform as a means to share my experience, thoughts, and
 This page will definitely change. For now, this is what you get. 
 
 Thanks for checking out my first post,
+
 TheJooosh.

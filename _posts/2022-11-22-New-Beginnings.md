@@ -1,5 +1,5 @@
 ---
-title: "New Beginnings
+title: "New Beginnings"
 date: 2022-11-22
 ---
 

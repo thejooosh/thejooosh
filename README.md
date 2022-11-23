@@ -6,3 +6,6 @@ I'm beginning my journey with Github. I plan on dedicating more time answering s
 🖥️ Love Powershell, Azure, and more
 👨 Father of 1, soon to be 2
 🌎 Philadelphia, Pennslyavania
+
+Starting a blog, feel free to check it out.
+https://thejooosh.github.io/thejooosh/
